@@ -18,5 +18,5 @@ Que tal conhecer um pouco mais sobre mim e sobre o que eu posso fazer?
 ![profile] 
 ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=ImArkoy&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=ImArkoy&theme=omni&layout=compact&hide_border=true
+[profile]: https://github-readme-stats.vercel.app/api?username=ManoDuck&show_icons=true&theme=omni&count_private=true&hide_border=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=ManoDuck&theme=omni&layout=compact&hide_border=true
